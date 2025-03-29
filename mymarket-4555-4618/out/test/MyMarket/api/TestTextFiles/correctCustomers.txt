@@ -1,0 +1,8 @@
+username: Nikos
+password: 12345
+firstName: ioannis
+surname: ioannoy
+username: malaksa
+password: 5324
+firstName: thanasis
+surname: athanasiou

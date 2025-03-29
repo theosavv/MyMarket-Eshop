@@ -1,0 +1,8 @@
+username: user1
+password: password1
+firstName: Georgios
+surname: Meditskos
+username: user2
+password: password2
+firstName: Grigorios
+surname: Tsoumakas
